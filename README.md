@@ -28,32 +28,32 @@ I build **AI automations & web apps** that reduce manual work.
 </div>
 
 ---
-
-## 🛠 Languages & Tools
-
 <!-- Always visible (no toggle) + wraps on mobile -->
 ## 🛠 Languages & Tools
 
-<p align="left">
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="28"/>
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="28"/>
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="28"/>
-  <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="28"/>
-  <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="28"/>
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="28"/>
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="28"/>
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="28"/>
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="28"/>
-  <img alt="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="28"/>
-  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="28"/>
-  <img alt="AWS" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="28"/>
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="28"/>
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="28"/>
-  <img alt="MongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="28"/>
-  <img alt="Solidity" src="https://cdn.simpleicons.org/solidity/A6A6A6" height="28"/>
-  <img alt="Salesforce" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" height="28"/>
-  <img alt="Zapier" src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" height="28"/>
+<p>
+  <img align="left" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="26" />
+  <img align="left" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="26" />
+  <img align="left" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="26" />
+  <img align="left" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="26" />
+  <img align="left" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="26" />
+  <img align="left" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="26" />
+  <img align="left" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="26" />
+  <img align="left" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="26" />
+  <img align="left" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="26" />
+  <img align="left" alt="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="26" />
+  <img align="left" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="26" />
+  <img align="left" alt="AWS" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="26" />
+  <img align="left" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="26" />
+  <img align="left" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="26" />
+  <img align="left" alt="MongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="26" />
+  <img align="left" alt="Solidity" src="https://cdn.simpleicons.org/solidity/A6A6A6" height="26" />
+  <img align="left" alt="Salesforce" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" height="26" />
+  <img align="left" alt="Zapier" src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" height="26" />
 </p>
 
+<br clear="left" />
+
+<br/>
 
 > *“Building the future, one block at a time.”*
