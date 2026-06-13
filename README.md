@@ -8,7 +8,7 @@ I build **AI automations & web apps** that reduce manual work.
 
 ⚡ Zapier + 🤖 ChatGPT automations and 🏢 Salesforce Admin — ✨ clean UX, ⚡ fast and 🔒 reliable delivery.
 
-🌐 **Website:** [ahraz.dev](https://ahraz.dev)
+🌐 **Website:** [ahraz.in](https://ahraz.in)
 
 ---
 
